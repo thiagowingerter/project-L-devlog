@@ -1,3 +1,4 @@
+<img src="docs/assets/L_icon.ico" align="right" width="120" alt="Lily Legacy Icon">
 # 🎮 Project L (Narrative RPG)
 
 An independent dark fantasy narrative RPG built with Python and the Ren'Py engine. This project applies professional software development discipline, agile tracking, and advanced Generative AI pipelines to streamline production and asset scaling.
